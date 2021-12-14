@@ -1,0 +1,47 @@
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\MainWindow.g.cs
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\SecondWindow.g.cs
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\App.g.cs
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\Autoservice_MarkupCompile.cache
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\Autoservice_MarkupCompile.lref
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\Autoservice.exe
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\Autoservice.pdb
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\bin\Debug\Autoservice.exe.config
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\bin\Debug\Autoservice.exe
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\bin\Debug\Autoservice.pdb
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\MainWindow.baml
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\SecondWindow.baml
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\Autoservice.g.resources
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\Autoservice.Properties.Resources.resources
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\Poprizonok.csproj.GenerateResource.cache
+C:\Users\Михаил\Downloads\Autoservice-master\Autoservice-master\obj\Debug\Poprizonok.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\bin\Debug\Autoservice.exe.config
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\bin\Debug\Autoservice.exe
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\bin\Debug\Autoservice.pdb
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\MainWindow.g.cs
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\SecondWindow.g.cs
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\App.g.cs
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\Autoservice_MarkupCompile.cache
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\Autoservice_MarkupCompile.lref
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\MainWindow.baml
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\SecondWindow.baml
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\Autoservice.g.resources
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\Autoservice.Properties.Resources.resources
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\Poprizonok.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\Autoservice.exe
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\Poprizonok\obj\Debug\Autoservice.pdb
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\Poprizonok.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\MainWindow.g.cs
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\SecondWindow.g.cs
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\App.g.cs
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\MainWindow.baml
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\SecondWindow.baml
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\Poprizonok.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\bin\Debug\Poprizonok.exe.config
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\bin\Debug\Poprizonok.exe
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\bin\Debug\Poprizonok.pdb
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\Poprizonok_MarkupCompile.cache
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\Poprizonok_MarkupCompile.lref
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\Poprizonok.g.resources
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\Poprizonok.Properties.Resources.resources
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\Poprizonok.exe
+C:\Users\Михаил\Desktop\LUNARITY ORG\1\2\Poprizonok\obj\Debug\Poprizonok.pdb
